@@ -1,4 +1,4 @@
-### Hi there 👋
+- 🔭 I’m currently working on react.js and libraries in its ecosystem.
 
 <!--
 **sabir-jamia/sabir-jamia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
